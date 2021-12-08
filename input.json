@@ -1,0 +1,8 @@
+{
+    "user" : "pradeep",
+    "method" : "GET",
+    "path" : [
+        "home",
+        "pradeep"
+    ]
+}
